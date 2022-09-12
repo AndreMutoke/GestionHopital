@@ -11,7 +11,7 @@ def afficherIdentiteDocteur(listeDocteur):
 def enregistrerDocteur():
     clearConsole()
     print("################################################\n")
-    print("##              ENREGISTRER DOCTEUR           ##\n")
+    print("##              ENREGISTRER DOCTEURs           ##\n")
     print("################################################\n")
     docteur = []
     
